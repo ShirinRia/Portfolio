@@ -1,13 +1,11 @@
 import { BsSendCheck } from "react-icons/bs";
-import { useForm } from "react-hook-form"
-import { TiHomeOutline } from "react-icons/ti";
 import { BsWhatsapp } from "react-icons/bs";
-import { CgWebsite } from "react-icons/cg";
 import { MdAlternateEmail } from "react-icons/md";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import emailjs from '@emailjs/browser';
 import { useRef } from 'react';
+import Swal from 'sweetalert2'
 const Contact = () => {
 
     // const { register, handleSubmit } = useForm()
@@ -18,6 +16,15 @@ const Contact = () => {
         emailjs.sendForm('service_u7xq4ar', 'template_8cjq44f', form.current, 'GHf3s46vmAs8Hoy4p')
             .then((result) => {
                 console.log(result.text);
+                if(result.text==='OK'){
+                    Swal.fire({
+                        position: "top-end",
+                        icon: "success",
+                        title: "Message sent",
+                        showConfirmButton: false,
+                        timer: 1500
+                      });
+                }
             }, (error) => {
                 console.log(error.text);
             });

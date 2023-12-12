@@ -23,8 +23,8 @@ const Contact = () => {
             });
     };
     return (
-        <div className="max-w-7xl mx-auto my-16"> <h3 className="text-4xl font-medium text-[#311E25] text-center">Get In Touch</h3>
-            <div className="flex justify-between items-center gap-10 mt-12">
+        <div className="max-w-6xl mx-auto my-16">  <h3 className="text-5xl font-medium text-[#311E25] text-center">Get In Touch</h3>
+            <div className="flex justify-between items-center gap-10 mt-8">
 
                 <form ref={form} onSubmit={onSubmit} className="flex flex-col gap-4 w-7/12 ">
                     <input name="name" className="input input-bordered border-[#311E25] w-full " placeholder="Your Name" />

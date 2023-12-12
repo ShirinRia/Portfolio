@@ -2,12 +2,12 @@
   {
     "id": 10,
     "skillname": "HTML",
-    "logo": "html_logo.png"
+    "logo": "html.png"
   },
   {
     "id": 11,
     "skillname": "CSS",
-    "logo": "css_logo.png"
+    "logo": "css.png"
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "skillname": "Express.js",
-    "logo": "express_logo.png"
+    "logo": "expressjs.png"
   },
   {
     "id": 3,
@@ -37,72 +37,72 @@
   {
     "id": 5,
     "skillname": "Material UI",
-    "logo": "materialui_logo.png"
+    "logo": "material.png"
   },
   {
     "id": 7,
     "skillname": "Tailwind CSS",
-    "logo": "tailwindcss_logo.png"
+    "logo": "tailwind.png"
   },
   {
     "id": 6,
     "skillname": "DaisyUI",
-    "logo": "daisyui_logo.png"
+    "logo": "daisy.png"
   },
 
   {
     "id": 17,
     "skillname": "Bootstrap",
-    "logo": "bootstrap_logo.png"
+    "logo": "bs.png"
   },
 
   {
     "id": 13,
     "skillname": "MAMBAUI",
-    "logo": "mambaui_logo.png"
+    "logo": "mamba.jpg"
   },
   {
     "id": 12,
     "skillname": "Firebase",
-    "logo": "daisyui_logo.png"
+    "logo": "firebase.jpg"
   },
   {
     "id": 14,
     "skillname": "Mongoose",
-    "logo": "mongoose_logo.png"
+    "logo": "mongoose.png"
   },
   {
     "id": 19,
     "skillname": "MySQL",
-    "logo": "mysql_logo.png"
+    "logo": "mysql.png"
   },
 
   {
     "id": 15,
     "skillname": "Figma",
-    "logo": "figma_logo.png"
+    "logo": "figma.png"
   },
 
   {
     "id": 18,
     "skillname": "JWT",
-    "logo": "jwt_logo.png"
+    "logo": "jwt.png"
   },
 
   {
     "id": 8,
     "skillname": "C",
-    "logo": "c_logo.png"
+    "logo": "c.png"
   },
   {
     "id": 9,
     "skillname": "C++",
-    "logo": "cpp_logo.png"
+    "logo": "c++.png"
   },
 
   {
     "id": 20,
     "skillname": "Python",
-    "logo": "python_logo.png"
+    "logo": "python.jpg"
   }
 ]

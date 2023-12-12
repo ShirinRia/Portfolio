@@ -4,7 +4,7 @@
       "projectName": "Lernen",
       "logo": "lernen.png",
       "description": "A dynamic educational MERN stack-based online learning platform with responsive design for optimal user experience. It features three distinct roles (admin, student, instructor), incorporates JWT authentication for secure logins, and utilizes Tanstack mutation for streamlined post requests.",
-      "technologies": ["JavaScript", "React.js"," Material UI"," Aos", "Express.js", "Node.js","MongoDB", "Firebase Authentication with JWT" ],
+      "technologies": ["js.png", "react.png","material.png","expressjs.png", "nodejs.png","mongo.png", "firebase.jpg", "jwt.png" ],
       "gitClient": "https://github.com/ShirinRia/Lernen---Educational-Website-Client-Side.git",
       "gitServer": "https://github.com/ShirinRia/Lernen---Educational-Website-Server-Side.git",
       "liveLink": "https://stirring-bunny-6b57ab.netlify.app/"
@@ -15,7 +15,7 @@
       "projectName": "Communeat",
       "logo": "communeat.png",
       "description": "A dynamic, user-friendly extra food management Website. The system promotes sustainability by allowing users to donate surplus food and even contribute financially.",
-      "technologies": ["JavaScript", "React.js"," Mamba UI","Framer-motion", "Express.js", "Node.js","MongoDB", "Firebase Authentication with JWT"],
+      "technologies": ["js.png", "react.png","mamba.jpg", "expressjs.png", "nodejs.png","mongo.png", "firebase.jpg", "jwt.png" ],
       "gitClient": "https://github.com/ShirinRia/Communeat-Donation-Website-Client-Site.git",
       "gitServer": "https://github.com/ShirinRia/Communeat-Donation-Website-Server-Site.git",
       "liveLink": "https://www.communeat-app.com"
@@ -26,7 +26,7 @@
       "projectName": "GlamourVault",
       "logo": "glamourvault.PNG",
       "description": "A beauty product based website from where users can purchase beauty products of various brands.",
-      "technologies": ["Vue.js", "Django", "PostgreSQL"],
+      "technologies": ["js.png", "react.png","daisy.png", "expressjs.png", "nodejs.png","mongo.png", "firebase.jpg"],
       "gitClient": "https://github.com/ShirinRia/GlamourValute---E-commerce-Website-Client-Side.git",
       "gitServer": "https://github.com/ShirinRia/GlamourValute---E-commerce-Website-Server-Side.git",
       "liveLink": "https://e-commerce-2e641.web.app/"

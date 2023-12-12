@@ -5,7 +5,7 @@ const Project = ({ project }) => {
     const { projectName, logo, description, technologies, gitClient, gitServer, liveLink } = project
     return (
 
-        <div className="card w-96 bg-base-100 shadow-xl">
+        <div className="card md:w-80 w-96 bg-base-100 shadow-xl">
             <figure><img src={logo} alt="Shoes"  /></figure>
             <div className="card-body">
                 <h2 className="card-title text-2xl text-[#311E25]">

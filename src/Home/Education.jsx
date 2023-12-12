@@ -4,13 +4,13 @@ import { FaAward } from "react-icons/fa";
 const Education = () => {
     return (
 
-        <div className="flex gap-5 max-w-7xl mx-auto  my-16 ">
+        <div className="flex flex-col lg:flex-row gap-5 max-w-7xl   my-16 ">
             <div className="w-full flex flex-col items-center" >
                 <h3 className="text-5xl font-medium text-[#311E25] mb-8">
                     Education
                 </h3>
                 <ul className=" space-y-7  ">
-                    <li className="flex timeline-box w-[520px]  items-center justify-between">
+                    <li className="flex timeline-box w-[400px] md:w-[520px]  items-center justify-between">
                         <div className="flex items-center">
 
                             <div className="timeline-end   justify-between space-y-5">
@@ -19,7 +19,7 @@ const Education = () => {
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" /></svg>
                                     </div>
 
-                                    <div className="flex justify-between gap-44 text-lg mr-5 ml-2">
+                                    <div className="flex flex-row justify-between gap-5 md:gap-36 text-lg mr-5 ml-2">
                                         <div className="text-lg"> <p className="flex items-center gap-2"> 2019 - 2023</p></div>
 
                                         <p className="text-lg "> <div className="flex items-center gap-2"><FaAward /> CGPA : 3.97/4.00</div></p>
@@ -38,7 +38,7 @@ const Education = () => {
 
                         {/* <img src={bubt} alt="shirin" className="w-4/12" /> */}
                     </li>
-                    <li className="flex timeline-box w-[520px]  items-center justify-between">
+                    <li className="flex timeline-box w-[400px] md:w-[520px]  items-center justify-between">
                         <div className="flex items-center">
 
                             <div className="timeline-end   justify-between space-y-5">
@@ -47,7 +47,7 @@ const Education = () => {
                                     <div className="timeline-middle">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" /></svg>
                                     </div>
-                                    <div className="flex justify-between gap-36 text-lg mr-5 ml-2">
+                                    <div className="flex flex-row justify-between gap-5 md:gap-36 text-lg mr-5 ml-2">
                                         <div className="text-lg">  <p className="text-lg mr-5 ml-2">2016 - 2018</p></div>
 
                                         <p className="text-lg "> <div className="flex items-center gap-2"><FaAward /> GPA :4.33/5.00</div></p>
@@ -65,7 +65,7 @@ const Education = () => {
 
                         {/* <img src={bcic} alt="shirin" className="w-4/12" /> */}
                     </li>
-                    <li className="flex timeline-box w-[520px]  items-center justify-between">
+                    <li className="flex timeline-box w-[400px] md:w-[520px]  items-center justify-between">
                         <div className="flex items-center">
 
                             <div className="timeline-end   justify-between space-y-5">
@@ -74,7 +74,7 @@ const Education = () => {
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" /></svg>
                                     </div>
 
-                                    <div className="flex justify-between gap-36 text-lg mr-5 ml-2">
+                                    <div className="flex flex-row justify-between gap-5 md:gap-36 text-lg mr-5 ml-2">
                                         <div className="text-lg">  <p className="text-lg mr-5 ml-2">
                                             2006 - 2016</p></div>
 
@@ -101,7 +101,7 @@ const Education = () => {
                     Experience
                 </h3>
                 <ul className=" space-y-7 ">
-                    <li className="flex timeline-box w-[520px]  items-center justify-between">
+                    <li className="flex timeline-box w-[400px] md:w-[520px]  items-center justify-between">
                         <div className="flex items-center">
 
                             <div className="timeline-end   justify-between space-y-5">
@@ -123,7 +123,7 @@ const Education = () => {
 
 
 
-                    <li className="flex timeline-box w-[520px]  items-center justify-between">
+                    <li className="flex timeline-box w-[400px] md:w-[520px]  items-center justify-between">
                         <div className="flex items-center">
 
                             <div className="timeline-end   justify-between space-y-5">

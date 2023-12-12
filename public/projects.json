@@ -18,7 +18,7 @@
       "technologies": ["js.png", "react.png","mamba.jpg", "expressjs.png", "nodejs.png","mongo.png", "firebase.jpg", "jwt.png" ],
       "gitClient": "https://github.com/ShirinRia/Communeat-Donation-Website-Client-Site.git",
       "gitServer": "https://github.com/ShirinRia/Communeat-Donation-Website-Server-Site.git",
-      "liveLink": "https://www.communeat-app.com"
+      "liveLink": "https://prismatic-faloodeh-2e211b.netlify.app/"
     },
     
     {

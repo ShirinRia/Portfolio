@@ -1,5 +1,4 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCodeBranch } from '@fortawesome/free-solid-svg-icons'
+
 
 const Project = ({ project }) => {
     const { projectName, logo, description, technologies, gitClient, gitServer, liveLink } = project

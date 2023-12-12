@@ -2,7 +2,7 @@ import pic1 from '../assets/lerv.png'
 import uits from '../assets/uits.png'
 const About = () => {
     return (
-        <div className='max-w-6xl  my-16 mb-80 md:mb-56'> <h3 className="text-5xl font-medium text-[#311E25] mb-8 text-center">
+        <div className='max-w-6xl mx-4 md:mx-auto my-16 mb-80 md:mb-56'> <h3 className="text-5xl font-medium text-[#311E25] mb-8 text-center">
         About Me
     </h3>
     

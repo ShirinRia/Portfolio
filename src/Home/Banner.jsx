@@ -7,7 +7,7 @@ const Banner = () => {
     return (
         <div className='flex flex-col md:flex-row items-center justify-between px-14' style={{ backgroundImage: `url(${banner})` }}>
 
-            <div className="max-w-xl flex flex-col gap-10">
+            <div className="max-w-xl flex flex-col gap-10 pt-10">
 
                 <h1 className="text-4xl lg:text-7xl font-medium text-white">Shirin Sultana</h1>
                 <h3 className="text-4xl font-normal text-[#DB9A64]">Web Developer</h3>

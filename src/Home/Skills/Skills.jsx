@@ -14,7 +14,7 @@ const Skills = () => {
     }, [])
     // console.log(skills)
     return (
-        <div className="max-w-6xl  ">
+        <div className="max-w-6xl mx-0 md:mx-auto ">
 
             <h3 className="text-5xl font-medium text-[#311E25] mb-8 text-center">
                 Technical Skills
